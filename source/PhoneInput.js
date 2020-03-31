@@ -262,7 +262,7 @@ function getParsedInputForValue(
 	if (!country && !defaultCountry) {
 		return value
 	}
-	const asYouType = new AsYouType(undefined, metadata)
+	const asYouType = new AsYouType(defaultCountry, metadata)
 	asYouType.input(value)
 	const phoneNumber = asYouType.getNumber()
 	if (phoneNumber) {
