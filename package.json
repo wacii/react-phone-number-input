@@ -1,5 +1,5 @@
 {
-  "name": "react-phone-number-input",
+  "name": "@wacii/react-phone-number-input",
   "version": "3.0.21",
   "description": "Telephone number input React component",
   "main": "min/index.commonjs.js",
@@ -69,7 +69,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/catamphetamine/react-phone-number-input.git"
+    "url": "git+https://github.com/wacii/react-phone-number-input.git"
   },
   "keywords": [
     "react",
@@ -79,10 +79,10 @@
     "telephone",
     "international"
   ],
-  "author": "catamphetamine <purecatamphetamine@gmail.com>",
+  "author": "William Cunningham <w.a.cunningham.ii@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/catamphetamine/react-phone-number-input/issues"
+    "url": "https://github.com/wacii/react-phone-number-input/issues"
   },
-  "homepage": "https://github.com/catamphetamine/react-phone-number-input#readme"
+  "homepage": "https://github.com/wacii/react-phone-number-input#readme"
 }
